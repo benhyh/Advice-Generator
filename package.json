@@ -1,0 +1,17 @@
+{
+  "name": "advice-generator-app-main",
+  "version": "1.0.0",
+  "source": "advice-generator-app-main/src/index.html",
+  "scripts": {
+    "start": "parcel advice-generator-app-main/src/index.html",
+    "build": "parcel build advice-generator-app-main/src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  }
+}

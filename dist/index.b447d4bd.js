@@ -1,0 +1,2 @@
+const e=document.querySelector(".header"),c=document.querySelector(".circle"),t=document.querySelector(".advice");document.querySelector(".svgContainer"),document.querySelector(".svgContainerMobile"),c.addEventListener("click",()=>{fetch("https://api.adviceslip.com/advice").then(e=>e.json()).then(c=>{t.innerHTML=`"${c.slip.advice}"`,e.innerHTML=`Advice #${c.slip.id}`}).catch(e=>console.log("ERROR"))});
+//# sourceMappingURL=index.b447d4bd.js.map
