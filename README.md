@@ -25,8 +25,11 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+Desktop Design
+![Screenshot 2024-05-23 005000](https://github.com/benhyh/advice-generator/assets/155077782/1b4f7e4a-554c-4ddf-a4bf-b587988be965)
 
-![](./screenshot.jpg)
+Active State
+![Screenshot 2024-05-23 005044](https://github.com/benhyh/advice-generator/assets/155077782/4b9faf7a-8125-4cce-bde1-2ad357a84ff0)
 
 ### Links
 
