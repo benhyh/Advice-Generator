@@ -33,8 +33,8 @@ Active State
 
 ### Links
 
-- Solution URL: [To be updated]()
-- Live Site URL: [To be updated]()
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/advice-generator-parcel-scss-x2p3ArfjZd)
+- Live Site URL: [Netlify](https://www.frontendmentor.io/solutions/advice-generator-parcel-scss-x2p3ArfjZd)
 
 ## My process
 
