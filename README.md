@@ -34,7 +34,7 @@ Active State
 ### Links
 
 - Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/advice-generator-parcel-scss-x2p3ArfjZd)
-- Live Site URL: [Netlify](https://www.frontendmentor.io/solutions/advice-generator-parcel-scss-x2p3ArfjZd)
+- Live Site URL: [Netlify](https://shiny-bunny-c86982.netlify.app/)
 
 ## My process
 
